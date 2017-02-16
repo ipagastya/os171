@@ -1,0 +1,8 @@
+dalam tugas week01 ini kita diminta :
+- mengclone repository ke server
+- membuat berbagai direktori
+- membuat file dalam direktori
+- menghapus file
+- menggunakan text editor
+- membuat log
+- melakukan push
