@@ -1,0 +1,1 @@
+dalam tugas lab week00 kita diminta untuk membuat account google, kemudian membuat akun github, login ke server badak dan membuat repository.
