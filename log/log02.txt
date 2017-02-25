@@ -1,0 +1,23 @@
+w02-170221-10-LR-About: Protection and security, From: Lecture
+w02-170221-11-LR-About: Protection and security, From: Lecture
+w02-170221-11-LR-About: Scripting, From: Lecture
+w02-170221-12-LR-About: Scripting, From: Lecture
+w02-170221-12-DS-diskusi dengan teman setelah kelas
+w02-170221-13-DS-diskusi dengan teman setelah kelas
+w02-170221-20-LR-membaca slide Protection and security
+w02-170221-21-LR-membaca slide Protection and security
+w02-170222-13-PS-membaca dan mempelajari task week02
+w02-170222-20-PS-mengerjakan task week02
+w02-170222-21-PS-mengerjakan task week02
+w02-170222-22-LR-menonton vide mengenai C programming, From: https://www.youtube.com/watch?v=cn6wfl5kF24
+w02-170222-22-PS-mengerjakan task week02
+w02-170223-09-PS-mengerjakan task week02
+w02-170223-10-PS-mengerjakan task week02
+w02-170223-11-PS-mengerjakan task week02
+w02-170223-12-PS-mengerjakan task week02
+w02-170223-20-LR-About: Pengenalan encryption and decryption, From: https://www.youtube.com/watch?v=BEb_AnPWPwY
+w02-170224-13-DS-diskusi tentang enkripsi dan dekripsi dengan teman
+w02-170224-14-DS-diskusi tentang enkripsi dan dekripsi dengan teman
+w02-170224-15-DS-diskusi tentang task week02
+w02-170225-12-PS-mengerjakan task week02
+w02-170225-13-PS-mengerjakan task week02
