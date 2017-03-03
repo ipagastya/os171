@@ -1,0 +1,16 @@
+w03-170228-10-LR-About: BIOS,BOOT,Upstart, From: Lecture
+w03-170228-11-LR-About: BIOS,BOOT,Upstart, From: Lecture
+w03-170228-12-LR-About: BIOS,BOOT,Upstart, From: Lecture
+w03-170228-12-DS-diskusi dengan teman setelah kelas
+w03-170228-13-DS-diskusi dengan teman setelah kelas
+w03-170302-10-LR-About: Upstart linux, From: Lecture
+w03-170302-11-LR-About: upstart linux, From: Lecture
+w03-170302-12-LR-About: Upstart linux, From: Lecture
+w03-170302-12-DS-diskusi dengan teman setelah kelas
+w03-170302-13-DS-diskusi dengan teman setelah kelas
+w03-170302-20-PS-mengerjakan task week03
+w03-170302-21-PS-mengerjakan task week03
+w03-170302-22-LR-menonton vide mengenai BIOS dan UEFI Booting, From: https://www.youtube.com/watch?v=zIYkol851dU
+w03-170303-23-PS-mengerjakan task week03
+w03-170303-00-PS-mengerjakan task week03
+w03-170304-01-PS-mengerjakan task week03
