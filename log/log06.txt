@@ -1,0 +1,17 @@
+w06-170411-10-LR-About: Processes & Threads, From: Lecture
+w06-170411-11-LR-About: Processes & Threads, From: Lecture
+w06-170411-12-LR-About: Processes & Threads, From: Lecture
+w06-170411-12-DS-diskusi dengan teman setelah kelas
+w06-170411-13-DS-diskusi dengan teman setelah kelas
+w06-170411-20-LR-membaca slide Processes & Threads
+w06-170411-21-LR-membaca slide Processes & Threads
+w06-170413-10-LR-About: fork , From: Lecture
+w06-170413-11-LR-About: fork , From: Lecture
+w06-170413-12-LR-About: fork, From: Lecture
+w06-170413-13-PS-membaca dan mempelajari task week06
+w06-170414-21-PS-mengerjakan task week04
+w06-170414-22-PS-mengerjakan task week04
+w06-170414-22-PS-mengerjakan task week04
+w06-170414-00-PS-mengerjakan task week04
+w06-170415-01-PS-mengerjakan task week04
+w06-170415-02-PS-mengerjakan task week04
