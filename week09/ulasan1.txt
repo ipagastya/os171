@@ -1,0 +1,7 @@
+Github account : ipagastya
+URL ulasan : http://ipagastya.blogspot.co.id/2017/05/ulasan-1-linux-command-line.html
+URL video : https://youtu.be/EbOEqycEFeM
+Video author : tutoriaLinux
+Pemetaan : week00
+Revisi pertama : 21 mei 2017
+Revisi terakhir : 21 mei 2017
